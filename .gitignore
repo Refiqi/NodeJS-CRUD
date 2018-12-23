@@ -1,0 +1,5 @@
+node_modules/
+*.mongoDB.js
+*.env
+*.env.test
+*.log
